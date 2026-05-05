@@ -78,7 +78,7 @@
     "ui_jogun_jogunDelBtn": "삭제",
     "ui_jogun_jogunNewBtn": "새검색만들기",
     "ui_jogun_jogunName": "생성할 검색명을 입력하세요.",
-    "ui_jogun_label2": "그룹별로 검색조건을 추가할수 있습니다.[그룹추가하기] 를 클릭하며 그룹을 추가하세요"
+    "ui_jogun_label_2": "그룹별로 검색조건을 추가할수 있습니다.[그룹추가하기] 를 클릭하며 그룹을 추가하세요"
   },
   "en_US": {
     "name": "English",
@@ -90,7 +90,7 @@
     "controller_func": "Function",
     "controller_projectExcelList": "[Excluded from search when checked] Path",
     "controller_basic_use": "Basic Usage",
-    "controller_search_jogun": "Search Conditions",
+    "controller_search_jogun": "Conditions",
     "controller_license_ok": "Please select your agreement to the Software License Agreement and Privacy Policy.",
     "controller_block": "Access has been blocked.",
     "controller_edit": "Edit",
@@ -159,6 +159,6 @@
     "ui_jogun_jogunDelBtn": "Delete",
     "ui_jogun_jogunNewBtn": "Create New Search",
     "ui_jogun_jogunName": "Enter a name for the search.",
-    "ui_jogun_label2": "You can add search conditions by group. Click [Add Group] to create groups."
+    "ui_jogun_label_2": "You can add search conditions by group. Click [Add Group] to create groups."
     }
 }
