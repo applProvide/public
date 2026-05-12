@@ -58,7 +58,7 @@
     "ui_controller_projectJogunSearchBtn": "검색",
     "ui_controller_label_4": "파일명을 더블클릭하면 열 수 있습니다.",
     "ui_controller_label": "탭을 더블클릭하면 파일을 열 수 있습니다.",
-    "ui_controller_label_5": "<h3>다양한 문서를 하나의 시스템으로 통합 검색 / 업무 효율을 높이는 차세대 문서 검색 솔루션</h3>\n<ul style='font-size:12px;'><li style='margin-bottom:10px'>Excel, Word, PDF, PPT,HWP까지 완벽 지원</li>\n<li style='margin-bottom:10px'>그룹 기반 조건 검색으로 정밀한 데이터 추출</li>\n<li style='margin-bottom:10px'>키워드 + 문맥 분석으로 높은 검색 정확도 제공</li>\n<li style='margin-bottom:10px'>단순 키워드 매칭을 넘어 단어 간 관계와 문맥을 기반으로 검색 수행</li>\n<li style='margin-bottom:10px'>흩어진 문서, 하나의 검색으로 검색</li>\n<li style='margin-bottom:10px'>특정 단어의 앞뒤 맥락까지 분석하는 정밀 검색</li>\n<li style='margin-bottom:10px'>다양한 문서 포맷을 텍스트만 추출하여 하나로 통합해서 검색</li>\n</ul>",
+    "ui_controller_label_5": "<h3>다양한 문서를 하나의 시스템으로 통합 검색 / 업무 효율을 높이는 차세대 문서 검색 솔루션</h3>\n<ul style='font-size:12px;'><li style='margin-bottom:10px'>Excel, Word, PDF, PPT,HWP,IMG(JPG,PNG,BMP) 파일 까지 완벽 지원</li>\n<li style='margin-bottom:10px'>그룹 기반 조건 검색으로 정밀한 데이터 추출</li>\n<li style='margin-bottom:10px'>키워드 + 문맥 분석으로 높은 검색 정확도 제공</li>\n<li style='margin-bottom:10px'>단순 키워드 매칭을 넘어 단어 간 관계와 문맥을 기반으로 검색 수행</li>\n<li style='margin-bottom:10px'>흩어진 문서, 하나의 검색으로 검색</li>\n<li style='margin-bottom:10px'>특정 단어의 앞뒤 맥락까지 분석하는 정밀 검색</li>\n<li style='margin-bottom:10px'>다양한 문서 포맷을 텍스트만 추출하여 하나로 통합해서 검색</li>\n</ul>",
     "ui_controller_label_2": "<html><head/><body><p><span style=' font-size:12px;'>1.[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성하세요.</span></p></body></html>",
     "ui_controller_label_3": "<html><head/><body><p><span style=' font-size:12px;'>2.프로젝트 생성시 검색에 포함할 문서파일일 및 폴더를 추가하세요.</span></p></body></html>",
     "ui_controller_label_6": " <html><head/><body><p><span style=' font-size:12px;'>3.검색관리를 통해 검색할 조건을 등록합니다.</span></p></body></html>",
@@ -78,6 +78,9 @@
     "ui_jogun_jogunDelBtn": "삭제",
     "ui_jogun_jogunNewBtn": "새검색만들기",
     "ui_jogun_jogunName": "생성할 검색명을 입력하세요.",
+    "func_docu_old":"구버전 파일을 읽을수 없습니다.최신버전 파일로  변경하시기 바랍니다.",
+    "func_docu_no":"본문 데이터가 없습니다.",
+    "func_docu_no_hwp":"지원되지 않는 HWP 파일 형식이거나, 읽기 실패.",
     "ui_jogun_label_2": "그룹별로 검색조건을 추가할수 있습니다.[그룹추가하기] 를 클릭하며 그룹을 추가하세요"
   },
   "en_US": {
@@ -139,7 +142,7 @@
     "ui_controller_projectJogunSearchBtn": "Search",
     "ui_controller_label_4": "Double-click the file name to open it.",
     "ui_controller_label": "Double-click the tab to open the file.",
-    "ui_controller_label_5": "<h3>A next-generation document search solution that integrates various documents into one system and improves work efficiency</h3>\n<ul style='font-size:12px;'><li style='margin-bottom:10px'>Fully supports Excel, Word, PDF, PPT, and HWP</li>\n<li style='margin-bottom:10px'>Precise data extraction with group-based condition search</li>\n<li style='margin-bottom:10px'>High search accuracy with keyword + context analysis</li>\n<li style='margin-bottom:10px'>Search based on relationships between words and context beyond simple keyword matching</li>\n<li style='margin-bottom:10px'>Search scattered documents with a single query</li>\n<li style='margin-bottom:10px'>Precise search analyzing context before and after specific keywords</li>\n<li style='margin-bottom:10px'>Extracts text from various document formats and integrates them into a unified search</li>\n</ul>",
+    "ui_controller_label_5": "<h3>A next-generation document search solution that integrates various documents into one system and improves work efficiency</h3>\n<ul style='font-size:12px;'><li style='margin-bottom:10px'>Fully supports Excel, Word, PDF, PPT, and HWP,IMG(JPG,PNG,BMP)/li>\n<li style='margin-bottom:10px'>Precise data extraction with group-based condition search</li>\n<li style='margin-bottom:10px'>High search accuracy with keyword + context analysis</li>\n<li style='margin-bottom:10px'>Search based on relationships between words and context beyond simple keyword matching</li>\n<li style='margin-bottom:10px'>Search scattered documents with a single query</li>\n<li style='margin-bottom:10px'>Precise search analyzing context before and after specific keywords</li>\n<li style='margin-bottom:10px'>Extracts text from various document formats and integrates them into a unified search</li>\n</ul>",
     "ui_controller_label_2": "<html><head/><body><p><span style=' font-size:12px;'>1. Click [Create New Project] to create a project.</span></p></body></html>",
     "ui_controller_label_3": "<html><head/><body><p><span style=' font-size:12px;'>2. When creating a project, add document files and folders to include in the search.</span></p></body></html>",
     "ui_controller_label_6": "<html><head/><body><p><span style=' font-size:12px;'>3. Register search conditions through search management.</span></p></body></html>",
@@ -159,6 +162,9 @@
     "ui_jogun_jogunDelBtn": "Delete",
     "ui_jogun_jogunNewBtn": "Create New Search",
     "ui_jogun_jogunName": "Enter a name for the search.",
-    "ui_jogun_label_2": "You can add search conditions by group. Click [Add Group] to create groups."
+    "func_docu_old": "This file was created in an older version and cannot be opened. Please convert it to the latest version.",
+    "func_docu_no": "No content data available.",
+    "func_docu_no_hwp": "Unsupported HWP file format or failed to read the file.",
+    "ui_jogun_label_2": "You can add search conditions by group. Click [Add Group] to create a new group."
     }
 }
