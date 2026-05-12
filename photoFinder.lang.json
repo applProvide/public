@@ -58,7 +58,7 @@
     "ui_controller_label_5": "<h3>사진 속 인물을 빠르고 정확하게 찾아주는 스마트 검색 솔루션</h3>\n<ul style='font-size:12px;'><li style='margin-bottom:10px'>얼굴 인식 기반으로 특정 인물 자동 탐지</li>\n<li style='margin-bottom:10px'>인물별 분류 / 검색</li>\n<li style='margin-bottom:10px'>여러 사진에서 동일 인물 찾기</li>\n<li style='margin-bottom:10px'>다수 이미지에서도 높은 검색 정확도 유지</li></ul>",
     "ui_controller_label_2": "<html><head/><body><p><span style=' font-size:12px;'>1.[새프로젝트 생성] 버튼을 클릭하여 프로젝트를 생성하세요.</span></p></body></html>",
     "ui_controller_label_3": "<html><head/><body><p><span style=' font-size:12px;'>2.프로젝트 생성시 검색에 포함할 문서파일일 및 폴더를 추가하세요.</span></p></body></html>",
-    "ui_controller_label_6": " <html><head/><body><p><span style=' font-size:162px;'>3.검색관리를 통해 검색할 조건을 등록합니다.</span></p></body></html>",
+    "ui_controller_label_6": " <html><head/><body><p><span style=' font-size:12px;'>3.검색관리를 통해 검색할 조건을 등록합니다.</span></p></body></html>",
     "ui_project_label_3": "프로젝트 관리",
     "ui_project_label": "<html><head/><body><p><span style=' font-size:12px; font-weight:700;'>프로젝트 이름을 입력하세요.</span></p></body></html>",
     "ui_project_projectNewName": "프로젝트 이름을 입력하세요 특수문자는 빼고 입력하세요",
